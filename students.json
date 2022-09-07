@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "fio_of_student": "Иванов Иван",
+      "class_of_student": "5-Б",
+      "perfomance_of_student": "хорошист"
+    },
+    {
+      "fio_of_student": "Иванов Степан",
+      "class_of_student": "1-А",
+      "perfomance_of_student": "отличник"
+    },
+    {
+      "fio_of_student": "Петров Петр",
+      "class_of_student": "6-В",
+      "perfomance_of_student": "троечник"
+    }
+  ]
+}
